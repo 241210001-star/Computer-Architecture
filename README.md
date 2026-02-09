@@ -15,9 +15,6 @@ This repository contains the implementation and verification of basic and interm
 # ✅ Experiment – 1 : Half Adder
 
 
-::contentReference[oaicite:0]{index=0}
-
-
 ### 🎯 Aim
 To design and simulate a Half Adder using Logisim.
 
@@ -51,10 +48,6 @@ We have successfully designed and simulated a Half Adder using Logisim and verif
 ---
 
 # ✅ Experiment – 2 : Full Adder
-
-
-::contentReference[oaicite:1]{index=1}
-
 
 ### 🎯 Aim
 To design and simulate a Full Adder using Logisim.
@@ -98,9 +91,6 @@ We have successfully designed and verified the operation of a Full Adder using L
 # ✅ Experiment – 3 : 8 : 1 Multiplexer
 
 
-::contentReference[oaicite:2]{index=2}
-
-
 ### 🎯 Aim
 To design and simulate an 8:1 Multiplexer using Logisim.
 
@@ -135,10 +125,6 @@ We have successfully implemented and verified the working of an 8:1 multiplexer 
 ---
 
 # ✅ Experiment – 4 : 8 : 3 Encoder
-
-
-::contentReference[oaicite:3]{index=3}
-
 
 ### 🎯 Aim
 To design and simulate an 8:3 encoder using Logisim.
@@ -175,8 +161,6 @@ We have successfully designed and tested an 8:3 encoder using Logisim.
 # ✅ Experiment – 5 : 4-bit Ripple Carry Adder
 
 
-::contentReference[oaicite:4]{index=4}
-
 
 ### 🎯 Aim
 To design and simulate a 4-bit Ripple Carry Adder using Logisim.
@@ -202,9 +186,6 @@ We have successfully designed and simulated a 4-bit Ripple Carry Adder using Log
 ---
 
 # ✅ Experiment – 6 : Delay in Ripple Carry Adder
-
-
-::contentReference[oaicite:5]{index=5}
 
 
 ### 🎯 Aim

@@ -1,6 +1,6 @@
-# 🧪 Digital Logic Design using Logisim – Lab Activities
+# 🧪 Digital Logic Design using Logisim – Lab Activities (Till Lab 4, open other repositories in profile to view the rest of the experiments)
 
-This repository contains the implementation and verification of basic and intermediate digital circuits using **Logisim** as part of the Computer Organization & Architecture / Digital Logic laboratory. **Open the rest of the repositories to view the rest of the experiments.**
+This repository contains the implementation and verification of basic and intermediate digital circuits using **Logisim** as part of the Computer Organization & Architecture / Digital Logic laboratory.
 
 ---
 
